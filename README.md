@@ -14,4 +14,4 @@ fft_trans(int Point, CPLX_T *insamp, CPLX_T *Res)
 FFT计算.
 
 1. bit反序
-2. 逐渐buttterfly运算
+2. 逐级buttterfly运算
